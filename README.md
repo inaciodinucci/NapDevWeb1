@@ -7,7 +7,7 @@ API para gerenciamento de disciplinas acadêmicas usando Spring Boot, PostgreSQL
 1. **Clone este repositório:**
 
 ```sh
-git clone [https://github.com/inaciodinucci/NapDevWeb1.git](https://github.com/inaciodinucci/NapDevWeb1.git)
+git clone https://github.com/inaciodinucci/NapDevWeb1.git
 cd NapDevWeb1
 ```
 
