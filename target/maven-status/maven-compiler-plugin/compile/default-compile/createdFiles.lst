@@ -1,0 +1,5 @@
+br\ufra\edu\napdevweb\exception\ApiExceptionHandler.class
+br\ufra\edu\napdevweb\NapDevWebApplication.class
+br\ufra\edu\napdevweb\controller\DisciplinaController.class
+br\ufra\edu\napdevweb\model\Disciplina.class
+br\ufra\edu\napdevweb\repository\DisciplinaRepository.class

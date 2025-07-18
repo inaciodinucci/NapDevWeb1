@@ -7,7 +7,7 @@ API para gerenciamento de disciplinas acadêmicas usando Spring Boot, PostgreSQL
 1. **Clone este repositório:**
 
 ```sh
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/inaciodinucci/NapDevWeb1.git
 cd NapDevWeb1
 ```
 
@@ -20,7 +20,7 @@ docker run --name nap01dev -e POSTGRES_DB=disciplina_db -e POSTGRES_USER=aula -e
 3. **Compile e execute a aplicação:**
 
 ```sh
-mvn clean install
+mvn clean install -DskipTests
 mvn spring-boot:run
 ```
 
